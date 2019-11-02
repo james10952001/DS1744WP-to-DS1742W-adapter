@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 10/10/2019 1:02:21 PM
+
+BeginCmp
+TimeStamp = /5D9F77B3;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D9F79A3;
+Reference = P1;
+ValeurCmp = DS1742W;
+IdModule  = DIP-24__600_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5D9F75C4;
+Reference = U1;
+ValeurCmp = DS1744P-70;
+IdModule  = DALLAS_DS1554P-70+;
+EndCmp
+
+EndListe
